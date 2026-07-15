@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashith-17/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
