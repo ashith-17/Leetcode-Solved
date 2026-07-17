@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0883-projection-area-of-3d-shapes) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ashith-17/Leetcode-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0883-projection-area-of-3d-shapes) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ashith-17/Leetcode-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Matrix
 |  |
 | ------- |
