@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ashith-17/Leetcode-Solved/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/ashith-17/Leetcode-Solved/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0223-rectangle-area) |
+| [0233-number-of-digit-one](https://github.com/ashith-17/Leetcode-Solved/tree/master/0233-number-of-digit-one) |
 | [0371-sum-of-two-integers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
 | [0812-largest-triangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0883-projection-area-of-3d-shapes) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashith-17/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/ashith-17/Leetcode-Solved/tree/master/0233-number-of-digit-one) |
 ## Database
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ashith-17/Leetcode-Solved/tree/master/0089-gray-code) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/ashith-17/Leetcode-Solved/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
