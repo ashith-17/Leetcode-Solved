@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ashith-17/Leetcode-Solved/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/ashith-17/Leetcode-Solved/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
@@ -92,7 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ashith-17/Leetcode-Solved/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/ashith-17/Leetcode-Solved/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ashith-17/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/ashith-17/Leetcode-Solved/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
