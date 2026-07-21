@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ashith-17/Leetcode-Solved/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0223-rectangle-area) |
+| [0371-sum-of-two-integers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
 | [0812-largest-triangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0883-projection-area-of-3d-shapes) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ashith-17/Leetcode-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -93,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ashith-17/Leetcode-Solved/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ashith-17/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
