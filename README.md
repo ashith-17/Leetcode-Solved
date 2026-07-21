@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashith-17/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ashith-17/Leetcode-Solved/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/ashith-17/Leetcode-Solved/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ashith-17/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0812-largest-triangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0812-largest-triangle-area) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/ashith-17/Leetcode-Solved/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/ashith-17/Leetcode-Solved/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ashith-17/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
