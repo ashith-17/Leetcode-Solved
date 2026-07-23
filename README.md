@@ -124,5 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## JavaScript
 |  |
 | ------- |
-| [2629. Function Composition](https://github.com/ashith-17/Leetcode-Solved/tree/master/3499-maximize-active-section-with-trade-i) |
+| [2629. Function Composition](https://github.com/ashith-17/Leetcode-Solved/tree/master/2629-function-composition) |
 <!---LeetCode Topics End-->
