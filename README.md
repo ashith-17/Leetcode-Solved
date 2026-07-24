@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/ashith-17/Leetcode-Solved/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ashith-17/Leetcode-Solved/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ashith-17/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0812-largest-triangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0883-projection-area-of-3d-shapes) |
 ## Math
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashith-17/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ashith-17/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
