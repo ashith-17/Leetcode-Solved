@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ashith-17/Leetcode-Solved/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/ashith-17/Leetcode-Solved/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ashith-17/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashith-17/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/3499-maximize-active-section-with-trade-i) |
