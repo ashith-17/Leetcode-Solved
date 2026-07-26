@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665. Counter II](https://github.com/ashith-17/Leetcode-Solved/tree/master/2665-counter-ii) |
 | [2667. Create Hello World Function](https://github.com/ashith-17/Leetcode-Solved/tree/master/2667-create-hello-world-function) |
 | [2704. To Be Or Not To Be](https://github.com/ashith-17/Leetcode-Solved/tree/master/2704-to-be-or-not-to-be) |
+| [2703. Return Length of Arguments Passed](https://github.com/ashith-17/Leetcode-Solved/tree/master/2703-return-length-of-arguments-passed) |
 ## Linked List
 |  |
 | ------- |
