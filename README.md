@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0883-projection-area-of-3d-shapes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashith-17/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashith-17/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ashith-17/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashith-17/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ashith-17/Leetcode-Solved/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -145,8 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2635. Apply Transform Over Each Element in Array](https://github.com/ashith-17/Leetcode-Solved/tree/master/2635-apply-transform-over-each-element-in-array) |
 | [2665. Counter II](https://github.com/ashith-17/Leetcode-Solved/tree/master/2665-counter-ii) |
 | [2667. Create Hello World Function](https://github.com/ashith-17/Leetcode-Solved/tree/master/2667-create-hello-world-function) |
-| [2704. To Be Or Not To Be](https://github.com/ashith-17/Leetcode-Solved/tree/master/2704-to-be-or-not-to-be) |
 | [2703. Return Length of Arguments Passed](https://github.com/ashith-17/Leetcode-Solved/tree/master/2703-return-length-of-arguments-passed) |
+| [2704. To Be Or Not To Be](https://github.com/ashith-17/Leetcode-Solved/tree/master/2704-to-be-or-not-to-be) |
 ## Linked List
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashith-17/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashith-17/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
