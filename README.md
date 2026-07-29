@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/ashith-17/Leetcode-Solved/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/ashith-17/Leetcode-Solved/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/ashith-17/Leetcode-Solved/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/ashith-17/Leetcode-Solved/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ashith-17/Leetcode-Solved/tree/master/0570-managers-with-at-least-5-direct-reports) |
