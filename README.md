@@ -241,17 +241,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ashith-17/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/ashith-17/Leetcode-Solved/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ashith-17/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/ashith-17/Leetcode-Solved/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ashith-17/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/ashith-17/Leetcode-Solved/tree/master/3310-remove-methods-from-project) |
 ## Number Theory
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ashith-17/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
