@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0883-projection-area-of-3d-shapes) |
+| [0994-rotting-oranges](https://github.com/ashith-17/Leetcode-Solved/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashith-17/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0883-projection-area-of-3d-shapes) |
+| [0994-rotting-oranges](https://github.com/ashith-17/Leetcode-Solved/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ashith-17/Leetcode-Solved/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/ashith-17/Leetcode-Solved/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/ashith-17/Leetcode-Solved/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
