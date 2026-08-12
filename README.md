@@ -317,4 +317,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ashith-17/Leetcode-Solved/tree/master/1071-greatest-common-divisor-of-strings) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ashith-17/Leetcode-Solved/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ashith-17/Leetcode-Solved/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ashith-17/Leetcode-Solved/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
