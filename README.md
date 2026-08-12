@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ashith-17/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ashith-17/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
+| [1768-merge-strings-alternately](https://github.com/ashith-17/Leetcode-Solved/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashith-17/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ashith-17/Leetcode-Solved/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ashith-17/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashith-17/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/ashith-17/Leetcode-Solved/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashith-17/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
