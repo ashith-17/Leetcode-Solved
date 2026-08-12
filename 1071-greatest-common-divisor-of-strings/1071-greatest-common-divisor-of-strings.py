@@ -3,9 +3,9 @@ class Solution:
       a=len(str1)
       b=len(str2)
       while b!=0:
-        gcd=a%b
+        rem=a%b
         a=b
-        b=gcd
+        b=rem
       gcd_component=str2[:a]
       if gcd_component*(len(str1)//a)!=str1:
         return ""
