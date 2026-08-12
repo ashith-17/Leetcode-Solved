@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0883-projection-area-of-3d-shapes) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ashith-17/Leetcode-Solved/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ashith-17/Leetcode-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1406-stone-game-iii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ashith-17/Leetcode-Solved/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ashith-17/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashith-17/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ashith-17/Leetcode-Solved/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ashith-17/Leetcode-Solved/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -305,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashith-17/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ashith-17/Leetcode-Solved/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ashith-17/Leetcode-Solved/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
