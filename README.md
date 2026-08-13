@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/ashith-17/Leetcode-Solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/ashith-17/Leetcode-Solved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ashith-17/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/ashith-17/Leetcode-Solved/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0877-stone-game) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashith-17/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ashith-17/Leetcode-Solved/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/ashith-17/Leetcode-Solved/tree/master/1732-find-the-highest-altitude) |
 ## Heap (Priority Queue)
