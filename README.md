@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ashith-17/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/ashith-17/Leetcode-Solved/tree/master/0486-predict-the-winner) |
+| [0605-can-place-flowers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ashith-17/Leetcode-Solved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ashith-17/Leetcode-Solved/tree/master/0733-flood-fill) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashith-17/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashith-17/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
