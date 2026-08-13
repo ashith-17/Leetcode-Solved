@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ashith-17/Leetcode-Solved/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ashith-17/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ashith-17/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/ashith-17/Leetcode-Solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/ashith-17/Leetcode-Solved/tree/master/0733-flood-fill) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ashith-17/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ashith-17/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashith-17/Leetcode-Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/ashith-17/Leetcode-Solved/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashith-17/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
