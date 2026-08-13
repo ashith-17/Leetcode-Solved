@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashith-17/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/ashith-17/Leetcode-Solved/tree/master/1732-find-the-highest-altitude) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ashith-17/Leetcode-Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ashith-17/Leetcode-Solved/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashith-17/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashith-17/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ashith-17/Leetcode-Solved/tree/master/3731-find-missing-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ashith-17/Leetcode-Solved/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ashith-17/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ashith-17/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ashith-17/Leetcode-Solved/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashith-17/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashith-17/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
