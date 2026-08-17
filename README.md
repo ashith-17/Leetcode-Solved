@@ -369,10 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ashith-17/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/ashith-17/Leetcode-Solved/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ashith-17/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/ashith-17/Leetcode-Solved/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ashith-17/Leetcode-Solved/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ashith-17/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
