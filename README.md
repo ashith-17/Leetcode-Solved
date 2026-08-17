@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashith-17/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/ashith-17/Leetcode-Solved/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/ashith-17/Leetcode-Solved/tree/master/1732-find-the-highest-altitude) |
 | [2029-stone-game-ix](https://github.com/ashith-17/Leetcode-Solved/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ashith-17/Leetcode-Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/ashith-17/Leetcode-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ashith-17/Leetcode-Solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ashith-17/Leetcode-Solved/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ashith-17/Leetcode-Solved/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ashith-17/Leetcode-Solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ashith-17/Leetcode-Solved/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashith-17/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Database
 |  |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ashith-17/Leetcode-Solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ashith-17/Leetcode-Solved/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ashith-17/Leetcode-Solved/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
