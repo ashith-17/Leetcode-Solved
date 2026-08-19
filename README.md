@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/ashith-17/Leetcode-Solved/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/ashith-17/Leetcode-Solved/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/ashith-17/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashith-17/Leetcode-Solved/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashith-17/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ashith-17/Leetcode-Solved/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ashith-17/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ashith-17/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [1386-cinema-seat-allocation](https://github.com/ashith-17/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ashith-17/Leetcode-Solved/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashith-17/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashith-17/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashith-17/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0605-can-place-flowers) |
+| [1386-cinema-seat-allocation](https://github.com/ashith-17/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/ashith-17/Leetcode-Solved/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ashith-17/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
+| [1386-cinema-seat-allocation](https://github.com/ashith-17/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashith-17/Leetcode-Solved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
