@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashith-17/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashith-17/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashith-17/Leetcode-Solved/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ashith-17/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashith-17/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashith-17/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashith-17/Leetcode-Solved/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashith-17/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ashith-17/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ashith-17/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ashith-17/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashith-17/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashith-17/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/ashith-17/Leetcode-Solved/tree/master/0233-number-of-digit-one) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashith-17/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ashith-17/Leetcode-Solved/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashith-17/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashith-17/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashith-17/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
