@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ashith-17/Leetcode-Solved/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/ashith-17/Leetcode-Solved/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashith-17/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ashith-17/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashith-17/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -444,4 +446,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
