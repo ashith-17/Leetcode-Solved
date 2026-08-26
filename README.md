@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ashith-17/Leetcode-Solved/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ashith-17/Leetcode-Solved/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ashith-17/Leetcode-Solved/tree/master/2029-stone-game-ix) |
+| [2104-sum-of-subarray-ranges](https://github.com/ashith-17/Leetcode-Solved/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ashith-17/Leetcode-Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ashith-17/Leetcode-Solved/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashith-17/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ashith-17/Leetcode-Solved/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashith-17/Leetcode-Solved/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/ashith-17/Leetcode-Solved/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
@@ -461,4 +463,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ashith-17/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashith-17/Leetcode-Solved/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/ashith-17/Leetcode-Solved/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
