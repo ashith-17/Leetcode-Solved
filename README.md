@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashith-17/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashith-17/Leetcode-Solved/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ashith-17/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ashith-17/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashith-17/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashith-17/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ashith-17/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/ashith-17/Leetcode-Solved/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashith-17/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ashith-17/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ashith-17/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ashith-17/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
 ## Counting
