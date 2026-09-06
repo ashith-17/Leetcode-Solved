@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ashith-17/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashith-17/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/ashith-17/Leetcode-Solved/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/ashith-17/Leetcode-Solved/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashith-17/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashith-17/Leetcode-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0233-number-of-digit-one](https://github.com/ashith-17/Leetcode-Solved/tree/master/0233-number-of-digit-one) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ashith-17/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashith-17/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ashith-17/Leetcode-Solved/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/ashith-17/Leetcode-Solved/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ashith-17/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashith-17/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashith-17/Leetcode-Solved/tree/master/0345-reverse-vowels-of-a-string) |
